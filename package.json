@@ -1,7 +1,6 @@
 {
   "name": "@miorin/dsh-composer-queue-indicator",
   "version": "0.1.0",
-  "private": true,
   "license": "MIT",
   "description": "Shows a queue icon when Enter or Mod+Enter would queue the message.",
   "type": "module",
@@ -67,5 +66,17 @@
     "react": "18.3.1",
     "esbuild": "0.28.2",
     "typescript": "5.7.3"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miorin-chan/dsh-composer-queue-indicator.git"
+  },
+  "homepage": "https://github.com/miorin-chan/dsh-composer-queue-indicator#readme",
+  "bugs": {
+    "url": "https://github.com/miorin-chan/dsh-composer-queue-indicator/issues"
   }
 }
