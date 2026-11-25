@@ -1,0 +1,5 @@
+# Activates the bundle. The Host half is inert; the Client half ships through
+# package.json `dsh.client` and carries Queue send indicator.
+- insert:
+    - id: dsh-composer-queue-indicator
+      name: '@miorin/dsh-composer-queue-indicator'

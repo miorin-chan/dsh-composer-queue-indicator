@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Indicador de envio em fila",
+    "description": "Mostra um ícone de fila no botão Enviar quando o clique colocará a mensagem na fila."
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Indicador de envío en cola",
+    "description": "Muestra un icono de cola en el botón Enviar cuando al pulsarlo el mensaje se pondrá en cola."
+  }
+}
