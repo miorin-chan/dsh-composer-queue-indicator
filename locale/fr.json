@@ -1,6 +1,6 @@
 {
   "meta": {
     "title": "Indicateur de mise en file d’attente",
-    "description": "Affiche une icône de file d’attente sur le bouton d’envoi lorsque le message sera mis en attente."
+    "description": "Affiche une icône de file d’attente lorsque Entrée ou Mod+Entrée mettrait le message en attente."
   }
 }

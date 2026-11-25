@@ -2,9 +2,11 @@
 
 [简体中文](README.zh.md)
 
-When the agent is busy and clicking **Send** would queue a draft, the button shows an arrow above two stacked lines.
-The original click behavior, shortcuts, and queue are unchanged.
-Sending immediately, steering, and stopping keep their own controls.
+While the agent is busy, the **Send** button shows an arrow above two stacked lines when Enter would queue the draft.
+Hold Cmd or Ctrl to preview the complementary **Mod+Enter** action.
+Release it to return to the default icon.
+Clicking still uses the native default send action, even while a modifier is held.
+The plugin does not change either shortcut.
 
 Requires the Web client on DeepSeek Harness `0.2.2-rc.5`.
 Enable **Queue send indicator** in Session Atlas.

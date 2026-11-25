@@ -1,6 +1,6 @@
 {
   "meta": {
     "title": "排队发送提示",
-    "description": "点击发送会把消息加入队列时，发送按钮显示排队图标。"
+    "description": "按 Enter 或 Mod+Enter 会将消息加入队列时，发送按钮显示排队图标。"
   }
 }

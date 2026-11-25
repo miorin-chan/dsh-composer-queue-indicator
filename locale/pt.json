@@ -1,6 +1,6 @@
 {
   "meta": {
     "title": "Indicador de envio em fila",
-    "description": "Mostra um ícone de fila no botão Enviar quando o clique colocará a mensagem na fila."
+    "description": "Mostra um ícone de fila quando Enter ou Mod+Enter colocaria a mensagem na fila."
   }
 }

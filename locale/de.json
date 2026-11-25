@@ -1,6 +1,6 @@
 {
   "meta": {
     "title": "Anzeige für die Sendewarteschlange",
-    "description": "Zeigt ein Warteschlangensymbol auf der Sendetaste, wenn die Nachricht beim Klick eingereiht wird."
+    "description": "Zeigt ein Warteschlangensymbol, wenn Enter oder Mod+Enter die Nachricht einreihen würde."
   }
 }
