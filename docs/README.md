@@ -1,5 +1,7 @@
 # 项目文档
 
+- [产品设计](../DESIGN.md)：问题、目标体验、边界与成功标准。
+
 插件通过 `conversation.input.overlay` 提供一段作用于当前 composer 卡片的局部样式。
 样式匹配处于可用状态的主按钮。平时匹配 `input.send.queue` 的原生无障碍名称，
 单独按住 Cmd 或 Ctrl 时改为匹配 `input.send.steer`，预览相反的 Enter 动作。
