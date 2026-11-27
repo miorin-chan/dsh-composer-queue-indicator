@@ -9,8 +9,8 @@ Clicking still uses the native default send action, even while a modifier is hel
 The plugin does not change either shortcut.
 
 Requires the Web client on DeepSeek Harness `0.2.2-rc.5`.
-Enable **Queue send indicator** in Session Atlas.
-To install it on its own, run `npm ci` in this checkout and choose the directory in **Plugins → Add plugin**.
+Enable **Queue send indicator** in **Session Modular Improvement Plan**.
+To install it on its own, run `pnpm install` in this checkout and choose the directory in **Plugins → Add plugin**.
 Use one installation route so the plugin has only one entry.
 
 ## Screenshots

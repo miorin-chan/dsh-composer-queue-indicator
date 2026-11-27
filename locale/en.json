@@ -1,6 +1,7 @@
 {
   "meta": {
     "title": "Queue send indicator",
-    "description": "Shows a queue icon when Enter or Mod+Enter would queue the message."
+    "description": "Shows a queue icon when Enter or Mod+Enter would queue the message.",
+    "detail": "docs/DETAIL.md"
   }
 }
