@@ -13,4 +13,13 @@ Enable **Queue send indicator** in Session Atlas.
 To install it on its own, run `npm ci` in this checkout and choose the directory in **Plugins → Add plugin**.
 Use one installation route so the plugin has only one entry.
 
+## Screenshots
+
+While the agent is busy, the queued message appears above the draft and the send button shows the queue icon.
+The screenshots show the Chinese interface.
+
+| | Light | Dark |
+| --- | --- | --- |
+| Composer during generation | ![Composer with a queued message and a queue icon on Send in the light theme](docs/assets/screenshots/main-light.png) | ![Composer with a queued message and a queue icon on Send in the dark theme](docs/assets/screenshots/main-dark.png) |
+
 [Project documentation](docs/README.md)
